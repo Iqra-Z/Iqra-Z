@@ -1,6 +1,6 @@
 # Hey, I’m Iqra 👋
 
-I’m a **Software Engineering student at Ontario Tech University**, graduating in **April 2026**, with a strong interest in **Machine Learning, Autonomous Systems, and systems-level software**.
+I’m a **Software Engineering student at Ontario Tech University**, graduated in **April 2026**, with a strong interest in **Machine Learning, Autonomous Systems, and systems-level software**.
 
 ---
 
