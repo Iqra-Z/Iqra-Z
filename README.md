@@ -28,4 +28,4 @@ I’m a **Software Engineering student at Ontario Tech University**, graduated i
 I’m always open to discussions around **AI, autonomous technologies, systems software**, and interesting engineering problems.
 
 - 🔗 **LinkedIn:** https://www.linkedin.com/in/iqrazahid  
-- 💻 **GitHub:** https://github.com/Iqra-Z  
+- 💻 **Email:** iqra.zahideng@gmail.com
